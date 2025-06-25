@@ -1,5 +1,5 @@
 # Loan Prediction using Data Mining and Ensemble Learning
-<img width="550" alt="image" src="https://github.com/user-attachments/assets/ccac858d-46ea-46ee-90b5-85470b4cc9a1" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/ccac858d-46ea-46ee-90b5-85470b4cc9a1" /><img width="400" alt="image" src="https://github.com/user-attachments/assets/b2431c26-e273-4c96-b789-eab36dfcd14b" />
 
 ## 📌 Project Description
 Comprehensive loan prediction system using data mining techniques including EDA, anomaly detection, PCA, and association rule mining. Ensemble learning pipeline integrates models such as Decision Trees, SVM, XGBoost, and Keras-based deep networks for high-accuracy predictions. Emphasis on handling imbalanced data, detecting outliers, and reducing dimensionality for robust modeling. Includes extensive model evaluation and Streamlit framework.
