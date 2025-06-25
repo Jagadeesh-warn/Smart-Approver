@@ -7,7 +7,6 @@ Comprehensive loan prediction system using data mining techniques including EDA,
 ## 🧾 Dataset
 - Source: `loan-train.csv` and `loan-test.csv`
 - Contains loan application details like income, education, property area, and loan status
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/b2431c26-e273-4c96-b789-eab36dfcd14b" />
 
 ## 🔍 Features
 - **Exploratory Data Analysis (EDA)**: Visualized approval trends, income distribution, and categorical breakdowns
